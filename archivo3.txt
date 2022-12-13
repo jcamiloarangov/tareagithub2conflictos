@@ -1,1 +1,2 @@
 este es el archivo3
+vamos a crear un conflicto
