@@ -3,4 +3,3 @@ este es el archivo3
 vamos a crear un conflicto
 agrego texto archivo3
 agrego NUEVO texto
-vamos a crear un conflicto
